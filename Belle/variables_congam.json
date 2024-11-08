@@ -1,0 +1,29 @@
+{
+"congam_vars" : {
+	"Inv_mass" : "daughterInvariantMass(0, 1)",
+	"Dx" : "dx",
+        "Dy" : "dy",
+        "Dz" : "dz",
+        "X" : "x",
+        "Y" : "y",
+        "Z" : "z",
+	"gam_chiProb" : "chiProb",
+	"e1_mom" : "daughter(0,p)",
+        "e2_mom" : "daughter(1,p)",
+        "e1_PID" : "daughter(0,eIDBelle)",
+        "e2_PID" : "daughter(1,eIDBelle)",
+	"gam_isSignal" : "isSignal",
+        "gam_mcPDG" : "mcPDG",
+	"e1_mcPDG" : "daughter(0,mcPDG)",
+        "e2_mcPDG" : "daughter(1,mcPDG)",
+        "e1_genmomPDG" : "daughter(0,genMotherPDG)",
+        "e2_genmomPDG" : "daughter(1,genMotherPDG)",
+        "e1_genmomID" : "daughter(0,genMotherID)",
+        "e2_genmomID" : "daughter(1,genMotherID)",
+	"mcProdX" : "daughter(0,mcProdVertexX)",
+        "mcProdY" : "daughter(0,mcProdVertexY)",
+        "mcProdZ" : "daughter(0,mcProdVertexZ)"
+}
+}
+
+

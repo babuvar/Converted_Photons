@@ -1,0 +1,16 @@
+{
+"congam_vars" : {
+	"pi0_isSignal" : "isSignal",
+	"pi0_mass" : "M",
+	"pi0_mom" : "p",
+	"mcX" : "daughter(1,daughter(0,mcProductionVertexX))",
+	"mcY" : "daughter(1,daughter(0,mcProductionVertexY))",
+	"mcZ" : "daughter(1,daughter(0,mcProductionVertexZ))",
+	"X" : "daughter(1,x)",
+	"Y" : "daughter(1,y)",
+	"Z" : "daughter(1,z)"
+
+}
+}
+
+

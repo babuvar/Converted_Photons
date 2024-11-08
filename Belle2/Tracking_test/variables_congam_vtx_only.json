@@ -1,0 +1,22 @@
+{
+"congam_vars" : {
+	"e1_mom" : "daughter(0,p)",
+	"e2_mom" : "daughter(1,p)",
+	"e1_PID" : "daughter(0,electronID)",
+	"e2_PID" : "daughter(1,electronID)",
+	"gam_isSignal" : "isSignal",
+	"mcProdX" : "daughter(0,mcProdVertexX)",
+        "mcProdY" : "daughter(0,mcProdVertexY)",
+        "mcProdZ" : "daughter(0,mcProdVertexZ)",
+	"delR" : "vtx_vars(0)",
+        "delZ" : "vtx_vars(1)",
+        "vtx_x" : "vtx_vars(2)",
+        "vtx_y" : "vtx_vars(3)",
+        "vtx_z" : "vtx_vars(4)",
+	"vtx_rho" : "vtx_vars(5)",
+	"vtx_mass" : "vtx_vars(6)",
+	"del_TanLam" : "vtx_vars(7)"
+}
+}
+
+
